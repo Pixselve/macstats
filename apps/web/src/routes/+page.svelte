@@ -66,7 +66,7 @@
     <h1 class="font-bold text-xl sm:text-3xl">🍔 Le BigMac dans {restaurantData.restaurantCount} restaurants en 🇫🇷</h1>
     <div class="grid grid-cols-3 gap-4">
         <div class="bg-white p-4 rounded-lg shadow">
-            <h2 class="text-sm">😁 Prix le moins bas</h2>
+            <h2 class="text-sm">😁 Prix le plus bas</h2>
             <h1 class="font-bold text-xl capitalize">{restaurantData.minRestaurant.price.toFixed(2)} €</h1>
         </div>
 
