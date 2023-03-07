@@ -1,0 +1,24 @@
+{
+  "name": "restaurants-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "buid": "tsc",
+    "run": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "ts-node": "^10.9.1"
+  },
+  "bin": {
+    "restaurants-fetcher": "./lib/index.js"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
