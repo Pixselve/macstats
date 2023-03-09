@@ -1,0 +1,28 @@
+{
+  "name": "mcdonads-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "ts-node": "^10.9.1",
+    "@types/node": "^18.14.6"
+  },
+  "dependencies": {
+    "ora": "^6.1.2"
+  },
+  "bin": {
+    "mcdonalds-fetcher": "./lib/index.js"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
