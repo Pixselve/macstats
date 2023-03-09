@@ -6,15 +6,19 @@
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "dev": "ts-node src/index.ts"
+    "dev": "ts-node-esm src/index.ts"
   },
   "devDependencies": {
     "typescript": "^4.9.5",
     "ts-node": "^10.9.1",
-    "@types/node": "^18.14.6"
+    "@types/node": "^18.14.6",
+    "@types/cli-progress": "^3.11.0"
   },
   "dependencies": {
-    "ora": "^6.1.2"
+    "ora": "^6.1.2",
+    "async-sema": "^3.1.1",
+    "p-throttle": "^5.0.0",
+    "cli-progress": "^3.12.0"
   },
   "bin": {
     "mcdonalds-fetcher": "./lib/index.js"
@@ -22,6 +26,7 @@
   "files": [
     "lib/**/*"
   ],
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC"
