@@ -1,4 +1,4 @@
-import {Entreprise, NearResponse} from "./recherche-entreprises.objects";
+import {Entreprise, NearResponse} from "./types/api-recherche-entreprises.types";
 
 export class RechercheEntreprises {
     static url = "https://recherche-entreprises.api.gouv.fr"
