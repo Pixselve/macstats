@@ -1,5 +1,5 @@
 import { Feature, Restaurants } from './types/getRestaurants.types';
-import * as fs from 'fs';
+import { promises as fs, existsSync } from 'fs';
 import ora from 'ora';
 import pThrottle from 'p-throttle';
 import { Product } from './types/product.type';
@@ -10,6 +10,8 @@ const throttle = pThrottle({
   limit: 2,
   interval: 1000
 });
+
+const ROOT_FOLDER = './';
 
 /**
  * Throttle fetch to avoid 429
@@ -33,16 +35,16 @@ const fetchAllRestaurantsFromApi = async (): Promise<Feature[]> => {
   let page = 1;
   let res = await fetchRestaurantsLocations(page);
   restaurants.push(...res.features);
-  for (let i = res.pagination.page; i < res.pagination.pageCount; i++) {
+  for (let i = res.pagination.page + 1; i <= res.pagination.pageCount; i++) {
     await throttle(() => Promise.resolve());
-    res = await fetchRestaurantsLocations(page);
+    res = await fetchRestaurantsLocations(i);
     restaurants.push(...res.features);
   }
   return restaurants;
 };
 
-function saveJson(fileName: string, data: string) {
-  fs.writeFileSync(fileName, data);
+async function saveJson(fileName: string, data: string) {
+  await fs.writeFile(ROOT_FOLDER + fileName, data);
 }
 
 /**
@@ -69,19 +71,22 @@ const fetchBurgersFromOneRestaurant = async (restaurantID: number): Promise<Prod
  */
 async function fetchAllBurgersFromAllRestaurants() {
   const bar1 = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
-  const restaurants = JSON.parse(fs.readFileSync('restaurants.json', 'utf8'));
+  const restaurants = await fs.readFile(ROOT_FOLDER + 'restaurants.json', 'utf8').then((data) => JSON.parse(data));
 
   bar1.start(restaurants.length, 0);
 
   // create burgers folder
-  if (!fs.existsSync('burgers')) {
-    fs.mkdirSync('burgers');
+  if (!existsSync(ROOT_FOLDER + 'burgers')) {
+    await fs.mkdir(ROOT_FOLDER + 'burgers');
   }
 
+
   for (const restaurant of restaurants) {
-    const burgers = await fetchBurgersFromOneRestaurant(restaurant.properties.store_id);
-    saveJson(`burgers/${restaurant.properties.store_id}.json`, JSON.stringify(burgers));
-    bar1.increment();
+    await (async () => {
+      const burgers = await fetchBurgersFromOneRestaurant(restaurant.properties.store_id);
+      await saveJson(`burgers/${restaurant.properties.store_id}.json`, JSON.stringify(burgers));
+      bar1.increment();
+    })();
   }
   bar1.stop();
 }
@@ -89,7 +94,7 @@ async function fetchAllBurgersFromAllRestaurants() {
 async function main() {
   const restaurantsSpinner = ora('Fetching restaurants').start();
   const restaurants = await fetchAllRestaurantsFromApi();
-  saveJson('restaurants.json', JSON.stringify(restaurants));
+  await saveJson('restaurants.json', JSON.stringify(restaurants));
   restaurantsSpinner.succeed(`Fetched ${restaurants.length} restaurants`);
 
   await fetchAllBurgersFromAllRestaurants();
