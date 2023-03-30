@@ -1,6 +1,7 @@
 import * as process from "process";
 import * as path from "path";
 import {RestaurantFetcherConcurrence} from "./RestaurantFetcherConcurrence";
+import {Concurrents} from "./types/output";
 
 (async () => {
     let args = process.argv.slice(2)
@@ -24,3 +25,5 @@ function showHelp(): string{
     let program = path.basename(process.argv[1])
     return `Usage : ${program} [input_file.json] [output_file.json]`
 }
+
+export type {Concurrents}
