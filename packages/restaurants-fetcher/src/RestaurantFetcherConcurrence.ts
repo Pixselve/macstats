@@ -1,5 +1,4 @@
 import fs from "fs";
-import {PropertiesConcurrents} from "./types/restaurantsConcurrents.type";
 import {RechercheEntreprises} from "./recherche-entreprises";
 import {Presets, SingleBar} from "cli-progress";
 import type { Restaurant } from "mcdonads-fetcher";
@@ -40,7 +39,7 @@ export class RestaurantFetcherConcurrence {
                 bar.update(i, {
                     name: features[i].properties.name,
                 })
-                let properties = f.properties as PropertiesConcurrents
+                let properties = f.properties
                 let lat = properties.user_properties.y
                 let long = properties.user_properties.x
                 let numberConcurrents = await RechercheEntreprises.countNear(lat, long)
