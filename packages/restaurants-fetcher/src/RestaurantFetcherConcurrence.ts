@@ -27,7 +27,7 @@ export class RestaurantFetcherConcurrence {
     }
     static async addConcurrence(features: Feature[]): Promise<Feature[]> {
         let bar = new SingleBar({
-            format: "[{bar}] {value}/{total} | duration {duration} | ETA {eta_formatted} | {name}"
+            format: "[{bar}] {value}/{total} | duration {duration_formatted} | ETA {eta_formatted} | {name}"
         }, Presets.legacy)
 
         bar.start(features.length, 0)
