@@ -15,7 +15,7 @@ export class RechercheEntreprises {
 
         return await res.json() as NearResponse
     }
-    public static async getNear(lat: number, long: number, radius = this.radius){
+    public static async getNear(lat: number, long: number, radius = this.radius): Promise<Entreprise[]>{
         let list: Entreprise[] = []
 
         let result = await this.near_point(lat, long, this.radius, 1)
@@ -28,7 +28,7 @@ export class RechercheEntreprises {
 
         return list;
     }
-    public static async countNear(lat: number, long: number, radius = this.radius){
+    public static async countNear(lat: number, long: number, radius = this.radius): Promise<number>{
         let result = await this.near_point(lat, long, this.radius, 1)
         return result.total_results
     }
