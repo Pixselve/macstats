@@ -50,6 +50,7 @@ export class RestaurantFetcherConcurrence {
                 i++
             }
         }
+        bar.stop()
 
         if(errored.length !== 0)
             console.error(`Errored: ${errored.length}`)
