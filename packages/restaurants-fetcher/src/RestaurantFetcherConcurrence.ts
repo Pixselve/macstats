@@ -2,16 +2,16 @@ import fs from "fs";
 import {PropertiesConcurrents} from "./types/restaurantsConcurrents.type";
 import {RechercheEntreprises} from "./recherche-entreprises";
 import {Presets, SingleBar} from "cli-progress";
-import {Feature} from "./types/getRestaurants.types";
+import type { Restaurant } from "mcdonads-fetcher";
 
 function delay(ms: number) {
     return new Promise( resolve => setTimeout(resolve, ms) );
 }
 
 export class RestaurantFetcherConcurrence {
-    static openFile(path: string): Feature[] {
+    static openFile(path: string): Restaurant[] {
         try {
-            let res = JSON.parse(fs.readFileSync(path).toString()) as Feature[]
+            let res = JSON.parse(fs.readFileSync(path).toString()) as Restaurant[]
             if(res === null)
                 throw "File is not of Restaurant format"
             return res
@@ -22,10 +22,10 @@ export class RestaurantFetcherConcurrence {
         }
 
     }
-    static saveFile(path: string, restaurants: Feature[]) {
+    static saveFile(path: string, restaurants: Restaurant[]) {
         fs.writeFileSync(path, JSON.stringify(restaurants))
     }
-    static async addConcurrence(features: Feature[]): Promise<Feature[]> {
+    static async addConcurrence(features: Restaurant[]): Promise<Restaurant[]> {
         let bar = new SingleBar({
             format: "[{bar}] {value}/{total} | duration {duration_formatted} | ETA {eta_formatted} | {name}"
         }, Presets.legacy)

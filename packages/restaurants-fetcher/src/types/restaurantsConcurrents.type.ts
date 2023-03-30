@@ -1,5 +1,5 @@
-import {Properties} from "./getRestaurants.types";
+import { RestaurantProperties } from "mcdonads-fetcher";
 
-export interface PropertiesConcurrents extends Properties {
+export interface PropertiesConcurrents extends RestaurantProperties {
     nombreConcurrents: number
 }
