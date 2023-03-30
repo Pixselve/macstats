@@ -4,7 +4,8 @@
     "build": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "restaurants-fetcher": "ts-node packages/restaurants-fetcher/src/index.ts generated/restaurants.json generated/restaurants-concurrence.json"
   },
   "devDependencies": {
     "prettier": "^2.7.1",
