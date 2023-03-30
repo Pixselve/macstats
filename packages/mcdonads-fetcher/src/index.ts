@@ -1,4 +1,4 @@
-import { Feature, Restaurants } from './types/getRestaurants.types';
+import { Feature, Properties, Restaurants } from './types/getRestaurants.types';
 import { promises as fs, existsSync } from 'fs';
 import ora from 'ora';
 import pThrottle from 'p-throttle';
@@ -102,3 +102,5 @@ async function main() {
 }
 
 main();
+
+export type { Feature as Restaurant, Product as Burger, Properties as RestaurantProperties };

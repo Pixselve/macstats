@@ -12,7 +12,8 @@
     "ts-node": "^10.9.1",
     "@types/node": "^18.15.0",
     "@types/cli-progress": "^3.11.0",
-    "typescript": "^4.9.5"
+    "typescript": "^4.9.5",
+    "mcdonads-fetcher": "*"
   },
   "bin": {
     "restaurants-fetcher": "./lib/index.js"
