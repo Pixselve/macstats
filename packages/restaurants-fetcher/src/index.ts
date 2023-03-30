@@ -11,7 +11,7 @@ import {RestaurantFetcherConcurrence} from "./RestaurantFetcherConcurrence";
     }
 
     let input_file = args[0]
-    let output_file = args[0]
+    let output_file = args[1]
 
     console.log("Starting concurrence fetcher")
     let restaurants = RestaurantFetcherConcurrence.openFile(input_file)
