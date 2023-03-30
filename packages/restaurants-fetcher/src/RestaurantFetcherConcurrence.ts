@@ -32,6 +32,7 @@ export class RestaurantFetcherConcurrence {
 
         bar.start(features.length, 0)
         let i = 0
+        let errored = []
         for (const f of features) {
             try{
                 bar.update(i, {
@@ -41,12 +42,18 @@ export class RestaurantFetcherConcurrence {
                 let lat = properties.user_properties.y
                 let long = properties.user_properties.x
                 properties.nombreConcurrents = await RechercheEntreprises.countNear(lat, long)
-                i++
                 await delay(500)
             }catch (e){
                 console.error(`Error on ${i}: ${e}`)
+                errored.push(i)
+            }finally {
+                i++
             }
         }
+
+        if(errored.length !== 0)
+            console.error(`Errored: ${errored.length}`)
+
         return features
     }
 }
