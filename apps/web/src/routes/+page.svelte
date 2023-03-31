@@ -1,106 +1,77 @@
 <script lang="ts">
-    import restaurantData from 'mcdonalds-api';
+    import type {PageData} from './$types';
     import {Bar} from 'svelte-chartjs';
-    import {browser} from '$app/environment';
     import {BarElement, CategoryScale, Chart, Legend, LinearScale, Title, Tooltip} from 'chart.js';
-    import {onDestroy, onMount} from "svelte";
     import Card from "$lib/Card.svelte";
+    import top_expensive_city from "../../../../generated/processed/top_cities_expensive.json";
+    import top_cities_expensive from "../../../../generated/processed/top_cities_expensive.json";
 
     Chart.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale);
     Chart.defaults.color = '#000';
     Chart.defaults.backgroundColor = '#27742d';
 
-
-    let mapElement;
-    let map;
-
-    onMount(async () => {
-        if (browser) {
-            const leaflet = await import('leaflet');
-
-            map = leaflet.map(mapElement).setView([48.92309, 2.25481], 6);
-
-
-            leaflet.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            }).addTo(map);
-
-
-            const computeColor = (price, minPrice, maxPrice) => {
-                const ratio = (price - minPrice) / (maxPrice - minPrice);
-                const r = Math.round(255 * ratio);
-                const g = Math.round(255 * (1 - ratio));
-                const b = 0;
-                return `rgb(${r}, ${g}, ${b})`;
-            }
-
-            restaurantData.priceByRestaurant.forEach(restaurant => {
-                leaflet.circleMarker([restaurant.y as number, restaurant.x as number], {
-                    radius: 5,
-                    fillColor: computeColor(restaurant.price, restaurantData.minRestaurant.price, restaurantData.maxRestaurant.price),
-                    color: "#000",
-                    weight: 1,
-                    opacity: 1,
-                    fillOpacity: 0.8
-                }).addTo(map)
-                    .bindPopup(`<b>${restaurant.name}</b><br>${restaurant.price} €`);
-            });
-        }
-    });
-
-    onDestroy(async () => {
-        if (map) {
-            console.log('Unloading Leaflet map.');
-            map.remove();
-        }
-    });
+    export let data: PageData;
 
 
 </script>
 
-<style>
-    @import 'leaflet/dist/leaflet.css';
-</style>
-
-<Card>
-    <h1 class="font-bold text-xl sm:text-3xl">🍔 Le BigMac dans {restaurantData.restaurantCount} restaurants en 🇫🇷</h1>
-    <div class="grid grid-cols-3 gap-4">
-        <div class="bg-white p-4 rounded-lg shadow">
-            <h2 class="text-sm">😁 Prix le plus bas</h2>
-            <h1 class="font-bold text-xl capitalize">{restaurantData.minRestaurant.price.toFixed(2)} €</h1>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+    <Card className="space-y-4">
+        <div class="text-sm text-slate-400">
+            Villes où le Big Mac est le plus cher 🫰
         </div>
+        <ul class="list-decimal ml-5">
+            {#each data.top_cities_expensive as city}
+                <li class="w-full">
+                    <div class="flex items-baseline justify-between gap-2">
+                        <span class="capitalize font-bold">{city.city.toLowerCase()}</span> <span class="text-black/50">{city.price} €</span>
+                    </div>
 
-        <div class="bg-white p-4 rounded-lg shadow">
-            <h2 class="text-sm">🤔 Prix moyen</h2>
-            <h1 class="font-bold text-xl capitalize">{restaurantData.meanPrice} €</h1>
+                </li>
+            {/each}
+        </ul>
+
+    </Card>
+
+    <Card className="space-y-4">
+        <div class="text-sm text-slate-400">
+            Villes où le Big Mac est le moins cher 🤑
         </div>
+        <ul class="list-decimal ml-5">
+            {#each data.top_cities_cheapest as city}
+                <li class="w-full">
+                    <div class="flex items-baseline justify-between gap-2">
+                        <span class="capitalize font-bold">{city.city.toLowerCase()}</span> <span class="text-black/50">{city.price} €</span>
+                    </div>
 
-        <div class="bg-white p-4 rounded-lg shadow">
-            <h2 class="text-sm">😡 Prix le plus haut</h2>
-            <h1 class="font-bold text-xl capitalize">{restaurantData.maxRestaurant.price.toFixed(2)} €</h1>
+                </li>
+            {/each}
+        </ul>
+
+    </Card>
+
+    <Card className="md:col-span-2">
+        <div class="text-sm text-slate-400">
+            Répartition du prix du Big Mac 📊
         </div>
-    </div>
-</Card>
+        <Bar
+                data={{
+                    labels: data.big_mac_price_distribution.prices,
+                    datasets: [
+                        {
+                            label: 'Répartition du prix du Big Mac',
 
 
-<Card>
-    <h1 class="font-bold text-xl sm:text-3xl">🍔 Répartition des prix</h1>
+                            data: data.big_mac_price_distribution.amounts_of_restaurant,
+                        }
+                    ],
+                }}
+                options={{ responsive: true }}
+        />
+    </Card>
+</div>
 
-    <Bar
-            data={{
-                labels: restaurantData.restaurantCountByPrice.labels,
-			datasets: [
-				{
-					label: 'Nombre de restaurants',
-					data: restaurantData.restaurantCountByPrice.data
-				}
-			]
-		}}
-            options={{ responsive: true }}
-    />
-</Card>
 
-<Card className="aspect-square">
-    <h1 class="font-bold text-xl sm:text-3xl">🍔 Répartition sur la 🇫🇷</h1>
-    <div bind:this={mapElement} id="map" class="w-full h-full"></div>
-</Card>
+
+
+
