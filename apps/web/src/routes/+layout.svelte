@@ -25,7 +25,7 @@
     <nav class="flex justify-between sm:items-end flex-col sm:flex-row space-y-4 sm:space-y-0">
         <h1 class="font-bold text-3xl sm:text-5xl space-x-2"><span
                 class="bg-secondary p-2 rounded-md text-primary">Mac</span><span>Stats</span></h1>
-<!--        <span class="font-bold text-black/70">Mis à jour le 21 janvier 2022</span>-->
+        <span class="font-bold text-black/70">Mis à jour le 21 janvier 2022</span>
     </nav>
     <slot/>
     <footer class="flex items-center sm:items-start sm:space-x-2 justify-center sm:flex-row flex-col">
@@ -41,6 +41,8 @@
             <span>Open source</span></a>
         <span class="hidden sm:inline">·</span>
         <div>Réalisé par <a rel="noreferrer" target="_blank" class="text-secondary underline" href="https://mael.app">Mael Kerichard</a>
+            <span>et</span>
+            <a rel="noreferrer" target="_blank" class="text-secondary underline" href="https://fgdou.ovh">Fabien Goardou</a>
         </div>
     </footer>
 </main>

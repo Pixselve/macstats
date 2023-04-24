@@ -1,0 +1,6146 @@
+[
+    {
+        "number_of_competitors": 57,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 753,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 35,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 41,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 51,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 425,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 211,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 31,
+        "big_mac_price": 5.55
+    },
+    {
+        "number_of_competitors": 29,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 176,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 40,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.65
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 40,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 182,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 204,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.65
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 95,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 27,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 24,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 24,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 6.9
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 165,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 34,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 27,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.65
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 55,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 190,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 27,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 291,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 164,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 66,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 51,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.05
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 32,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.05
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.25
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 241,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 244,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 251,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.55
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 232,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 217,
+        "big_mac_price": 6.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 69,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.4
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 389,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 133,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 44,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 66,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 44,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 35,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 73,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 454,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.4
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 47,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 324,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 132,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 247,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 25,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 28,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 416,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.05
+    },
+    {
+        "number_of_competitors": 19,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 67,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 416,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 225,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 29,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 83,
+        "big_mac_price": 6.4
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 154,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 32,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 39,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.05
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.4
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.9
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.65
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 25,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 162,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 32,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 28,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.05
+    },
+    {
+        "number_of_competitors": 19,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 19,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 362,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 537,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 19,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 209,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 32,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 31,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 57,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 435,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 123,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 730,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 141,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 340,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 139,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 304,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 124,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 37,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 27,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 247,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 264,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 271,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 87,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 6.45
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 188,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 308,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 117,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 239,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 790,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 133,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 61,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 736,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 19,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.65
+    },
+    {
+        "number_of_competitors": 235,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 157,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 400,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 260,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 35,
+        "big_mac_price": 6.4
+    },
+    {
+        "number_of_competitors": 64,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 94,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 29,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 71,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 6.9
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 337,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.25
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 34,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 178,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 34,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 49,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 182,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 239,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 199,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.85
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 403,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 252,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 268,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 203,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 155,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 32,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 71,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 135,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 93,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 96,
+        "big_mac_price": 5.15
+    },
+    {
+        "number_of_competitors": 274,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 55,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 39,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 163,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 316,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 175,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 265,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 110,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 122,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 25,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 29,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.15
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 560,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 73,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 42,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 440,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 164,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 152,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 19,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 54,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 27,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 453,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 91,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 170,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 30,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 305,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 60,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 861,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 97,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 377,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 333,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 63,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 669,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 62,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 29,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 177,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 373,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.55
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 507,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 45,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 83,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 27,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 512,
+        "big_mac_price": 5.55
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 44,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 27,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 38,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 404,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 75,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 420,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 531,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 39,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 453,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 167,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 125,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 143,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 443,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 32,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 370,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 37,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 140,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 40,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 68,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 673,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 124,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 115,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 112,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 138,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 85,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 392,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 185,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 31,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 42,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 238,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 38,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 28,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 110,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 285,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 557,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 253,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 229,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 606,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 185,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 19,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 196,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 83,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 52,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 31,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 63,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 216,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 71,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 861,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 239,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 50,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 322,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 50,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 24,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 89,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 92,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 155,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 47,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 134,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 543,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 112,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 28,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.15
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 64,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 450,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 91,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 664,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 302,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 97,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 4.8
+    },
+    {
+        "number_of_competitors": 75,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 502,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 113,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 69,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 129,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 60,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 30,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 32,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 24,
+        "big_mac_price": 6.05
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 197,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 47,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 36,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 28,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 42,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 24,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 157,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.55
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 284,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.55
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.15
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 39,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 249,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 168,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 179,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 406,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 6.9
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 6.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 150,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 262,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 215,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 115,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 24,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 87,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.15
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 344,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 37,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.65
+    },
+    {
+        "number_of_competitors": 60,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 44,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 34,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 37,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 24,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 391,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 68,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 92,
+        "big_mac_price": 4.8
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 6.25
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 38,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 33,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 75,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 104,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 123,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 39,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 49,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 37,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 74,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 117,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.9
+    },
+    {
+        "number_of_competitors": 152,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 30,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 36,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 528,
+        "big_mac_price": 5.55
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 120,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 88,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 120,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 354,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 191,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 84,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 567,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 56,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 35,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 38,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 275,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 370,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 169,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 30,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 6.9
+    },
+    {
+        "number_of_competitors": 47,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 52,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 30,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.45
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 28,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 80,
+        "big_mac_price": 4.8
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 65,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 42,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 60,
+        "big_mac_price": 5.05
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 32,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 53,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 19,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 127,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.5
+    },
+    {
+        "number_of_competitors": 501,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 24,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 42,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 293,
+        "big_mac_price": 4.95
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 473,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 27,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 206,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 99,
+        "big_mac_price": 4.65
+    },
+    {
+        "number_of_competitors": 178,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 46,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.05
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 206,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 108,
+        "big_mac_price": 5.15
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 91,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 155,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 28,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 6.05
+    },
+    {
+        "number_of_competitors": 36,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 132,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 18,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 22,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 60,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 102,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 88,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 23,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 421,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 128,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 81,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 101,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 71,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 41,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 4.85
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 31,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 280,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 16,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.55
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 137,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 70,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 44,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 4.85
+    },
+    {
+        "number_of_competitors": 92,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.25
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.75
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 547,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 10,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 248,
+        "big_mac_price": 5.35
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.3
+    },
+    {
+        "number_of_competitors": 32,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 26,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 27,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 14,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 205,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 158,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 34,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 21,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 7,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 45,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 33,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 90,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 8,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 49,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 17,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.4
+    },
+    {
+        "number_of_competitors": 9,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 161,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 11,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.65
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 74,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.8
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 20,
+        "big_mac_price": 4.9
+    },
+    {
+        "number_of_competitors": 4,
+        "big_mac_price": 6.0
+    },
+    {
+        "number_of_competitors": 158,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.05
+    },
+    {
+        "number_of_competitors": 6,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 5,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 6.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.95
+    },
+    {
+        "number_of_competitors": 25,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.1
+    },
+    {
+        "number_of_competitors": 49,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 5.0
+    },
+    {
+        "number_of_competitors": 29,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 6.1
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.7
+    },
+    {
+        "number_of_competitors": 15,
+        "big_mac_price": 5.2
+    },
+    {
+        "number_of_competitors": 0,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 2,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 1,
+        "big_mac_price": 5.9
+    },
+    {
+        "number_of_competitors": 19,
+        "big_mac_price": 5.6
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.5
+    },
+    {
+        "number_of_competitors": 13,
+        "big_mac_price": 5.3
+    },
+    {
+        "number_of_competitors": 12,
+        "big_mac_price": 6.2
+    },
+    {
+        "number_of_competitors": 3,
+        "big_mac_price": 5.75
+    }
+]

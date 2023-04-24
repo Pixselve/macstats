@@ -1,8 +1,22 @@
 <script lang="ts">
     import type {PageData} from './$types';
     import {Bar, Scatter} from 'svelte-chartjs';
-    import {BarElement, CategoryScale, Chart, Legend, LinearScale, Title, Tooltip, PointElement, LineElement} from 'chart.js';
+    import {
+        BarElement,
+        CategoryScale,
+        Chart,
+        Legend,
+        LinearScale,
+        Title,
+        Tooltip,
+        PointElement,
+        LineElement
+    } from 'chart.js';
     import Card from "$lib/Card.svelte";
+    import StandardOfLivingSection from "$lib/standard-of-living/StandardOfLivingSection.svelte";
+    import PriceDistributionSection from "$lib/price-distribution/PriceDistributionSection.svelte";
+    import CompetitorMapSection from "$lib/competitors/CompetitorMapSection.svelte";
+    import number_of_competitors_to_price from "../../../../generated/processed/number_of_competitors_to_price.json";
 
     Chart.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, PointElement, LineElement);
     Chart.defaults.color = '#000';
@@ -50,48 +64,10 @@
 
     </Card>
 
-    <Card className="md:col-span-2">
-        <div class="text-sm text-slate-400">
-            Répartition du prix du Big Mac 📊
-        </div>
-        <Bar
-                data={{
-                    labels: data.big_mac_price_distribution.prices,
-                    datasets: [
-                        {
-                            label: 'Répartition du prix du Big Mac',
-
-
-                            data: data.big_mac_price_distribution.amounts_of_restaurant,
-                        }
-                    ],
-                }}
-                options={{ responsive: true }}
-        />
-    </Card>
-    <Card className="md:col-span-2">
-        <div class="text-sm text-slate-400">
-            Répartition du prix du Big Mac 📊
-        </div>
-        <Scatter
-                data={{
-                    datasets: [
-                        {
-                            label: 'Répartition du prix du Big Mac',
-                            data: data.big_mac_price_med14_processed,
-                                        backgroundColor: 'rgba(75, 192, 192, 0.5)',
-            borderColor: 'rgba(75, 192, 192, 1)',
-            borderWidth: 1,
-            pointRadius: 5,
-            lineTension: 0,
-            fill: false,
-            order: 1
-                        }
-                    ],
-                }}
-                options={{ responsive: true }}
-        />
-    </Card>
+    <PriceDistributionSection prices={data.big_mac_price_distribution.prices} amounts_of_restaurant={data.big_mac_price_distribution.amounts_of_restaurant}></PriceDistributionSection>
+    <StandardOfLivingSection trendlinePointsData={data.standardOfLiving.trendline} R2={data.standardOfLiving.r2}
+                             plotPointsData={data.standardOfLiving.prices}></StandardOfLivingSection>
+    <CompetitorMapSection R2={data.competitors.r2} trendlinePointsData={data.competitors.trendline} plotPointsData={data.competitors.number_of_competitors_to_price}></CompetitorMapSection>
 </div>
 
 
