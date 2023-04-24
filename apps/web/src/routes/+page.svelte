@@ -17,6 +17,7 @@
     import PriceDistributionSection from "$lib/price-distribution/PriceDistributionSection.svelte";
     import CompetitorMapSection from "$lib/competitors/CompetitorMapSection.svelte";
     import number_of_competitors_to_price from "../../../../generated/processed/number_of_competitors_to_price.json";
+    import PricePerDepartmentSection from "$lib/PricePerDepartmentSection.svelte";
 
     Chart.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, PointElement, LineElement);
     Chart.defaults.color = '#000';
@@ -68,6 +69,7 @@
     <StandardOfLivingSection trendlinePointsData={data.standardOfLiving.trendline} R2={data.standardOfLiving.r2}
                              plotPointsData={data.standardOfLiving.prices}></StandardOfLivingSection>
     <CompetitorMapSection R2={data.competitors.r2} trendlinePointsData={data.competitors.trendline} plotPointsData={data.competitors.number_of_competitors_to_price}></CompetitorMapSection>
+    <PricePerDepartmentSection geojson={data.region}></PricePerDepartmentSection>
 </div>
 
 
