@@ -1,4 +1,4 @@
-<div class="shadow bg-primary p-4 sm:p-10 rounded-lg flex flex-col space-y-4 sm:space-y-10 {className}">
+<div class="shadow bg-gray-100 p-4 md:p-10 rounded-2xl flex flex-col {className}">
     <slot></slot>
 </div>
 

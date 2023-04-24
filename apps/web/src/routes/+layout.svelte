@@ -41,6 +41,8 @@
             <span>Open source</span></a>
         <span class="hidden sm:inline">·</span>
         <div>Réalisé par <a rel="noreferrer" target="_blank" class="text-secondary underline" href="https://mael.app">Mael Kerichard</a>
+            <span>et</span>
+            <a rel="noreferrer" target="_blank" class="text-secondary underline" href="https://fgdou.ovh">Fabien Goardou</a>
         </div>
     </footer>
 </main>

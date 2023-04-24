@@ -1,0 +1,154 @@
+[
+    {
+        "price": 5.5,
+        "amount_of_restaurant": 246
+    },
+    {
+        "price": 5.6,
+        "amount_of_restaurant": 182
+    },
+    {
+        "price": 5.8,
+        "amount_of_restaurant": 166
+    },
+    {
+        "price": 5.7,
+        "amount_of_restaurant": 155
+    },
+    {
+        "price": 5.4,
+        "amount_of_restaurant": 128
+    },
+    {
+        "price": 5.9,
+        "amount_of_restaurant": 97
+    },
+    {
+        "price": 5.3,
+        "amount_of_restaurant": 78
+    },
+    {
+        "price": 6.0,
+        "amount_of_restaurant": 73
+    },
+    {
+        "price": 5.2,
+        "amount_of_restaurant": 42
+    },
+    {
+        "price": 5.1,
+        "amount_of_restaurant": 42
+    },
+    {
+        "price": 6.1,
+        "amount_of_restaurant": 39
+    },
+    {
+        "price": 6.2,
+        "amount_of_restaurant": 36
+    },
+    {
+        "price": 4.9,
+        "amount_of_restaurant": 30
+    },
+    {
+        "price": 5.95,
+        "amount_of_restaurant": 29
+    },
+    {
+        "price": 5.75,
+        "amount_of_restaurant": 24
+    },
+    {
+        "price": 5.25,
+        "amount_of_restaurant": 21
+    },
+    {
+        "price": 4.95,
+        "amount_of_restaurant": 19
+    },
+    {
+        "price": 5.0,
+        "amount_of_restaurant": 16
+    },
+    {
+        "price": 5.35,
+        "amount_of_restaurant": 15
+    },
+    {
+        "price": 5.45,
+        "amount_of_restaurant": 14
+    },
+    {
+        "price": 6.3,
+        "amount_of_restaurant": 13
+    },
+    {
+        "price": 6.5,
+        "amount_of_restaurant": 10
+    },
+    {
+        "price": 6.9,
+        "amount_of_restaurant": 9
+    },
+    {
+        "price": 6.05,
+        "amount_of_restaurant": 8
+    },
+    {
+        "price": 5.65,
+        "amount_of_restaurant": 7
+    },
+    {
+        "price": 5.55,
+        "amount_of_restaurant": 7
+    },
+    {
+        "price": 5.15,
+        "amount_of_restaurant": 6
+    },
+    {
+        "price": 6.4,
+        "amount_of_restaurant": 5
+    },
+    {
+        "price": 6.6,
+        "amount_of_restaurant": 4
+    },
+    {
+        "price": 6.25,
+        "amount_of_restaurant": 3
+    },
+    {
+        "price": 4.8,
+        "amount_of_restaurant": 3
+    },
+    {
+        "price": 5.05,
+        "amount_of_restaurant": 2
+    },
+    {
+        "price": 4.85,
+        "amount_of_restaurant": 2
+    },
+    {
+        "price": 6.7,
+        "amount_of_restaurant": 1
+    },
+    {
+        "price": 6.45,
+        "amount_of_restaurant": 1
+    },
+    {
+        "price": 5.85,
+        "amount_of_restaurant": 1
+    },
+    {
+        "price": 6.55,
+        "amount_of_restaurant": 1
+    },
+    {
+        "price": 4.65,
+        "amount_of_restaurant": 1
+    }
+]
