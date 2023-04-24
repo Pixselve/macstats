@@ -37,7 +37,7 @@
         map.on('load', function () {
             map.addSource('departments', {
                 'type': 'geojson',
-                'data': "http://localhost:5173/api/mean-price-per-department.geojson"
+                'data': "api/mean-price-per-department.geojson"
             });
 
             map.addLayer({
