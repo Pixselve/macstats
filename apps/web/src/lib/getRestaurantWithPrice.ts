@@ -24,7 +24,7 @@ export async function getRestaurantWithPrice(): Promise<RestaurantWithPrice[]> {
 
 const BUGERS_DIR = '../../generated/burgers';
 
-async function getBigMacPrice(id: string): Promise<any> {
+export async function getBigMacPrice(id: string): Promise<any> {
   const file = await readFile(`${BUGERS_DIR}/${id}.json`, 'utf-8');
   const json: Burger[] = JSON.parse(file);
   const burger = json.find((burger) => burger.ref === '2040');
