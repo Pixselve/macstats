@@ -20,7 +20,7 @@ async function getCityImageFromWikipedia(city: string) {
         const wikiPageImageJson = await wikiPageImage.json();
         return wikiPageImageJson.query.pages[wikiSearchPageId].original.source;
     } catch (e) {
-        // if the city is not found on wikipedia, we return a default image
+        // if the city is not found on Wikipedia, we return a default image
         return 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/NYC_wideangle_south_from_Top_of_the_Rock.jpg/2560px-NYC_wideangle_south_from_Top_of_the_Rock.jpg';
     }
 }
