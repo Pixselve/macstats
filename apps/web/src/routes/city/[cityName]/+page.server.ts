@@ -3,6 +3,7 @@ import type {Restaurant} from 'mcdonads-fetcher';
 import {readFile} from "fs/promises";
 import type {RestaurantWithPrice} from "$lib/getRestaurantWithPrice";
 import {getBigMacPrice} from "$lib/getRestaurantWithPrice";
+import restaurants from "../../../../../../generated/restaurants.json";
 
 async function getCityImageFromWikipedia(city: string) {
     try {
@@ -25,9 +26,6 @@ async function getCityImageFromWikipedia(city: string) {
 }
 
 async function meanBigMacPriceForCity(city: string) {
-    const restaurants: Restaurant[] = await readFile('../../generated/restaurants.json', 'utf-8').then((file) => JSON.parse(file));
-
-
     const restaurantsForCity = (restaurants as Restaurant[]).filter(
         (restaurant) => restaurant.properties.address.city === city
     );
