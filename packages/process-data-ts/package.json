@@ -1,0 +1,21 @@
+{
+  "name": "process-data-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "generate": "ts-node-esm src/index.ts",
+    "build": "rm -rf dist && npm run generate && tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+  },
+  "keywords": [],
+  "author": "Mael Kerichard",
+  "license": "ISC",
+  "type": "module"
+}

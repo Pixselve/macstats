@@ -1,9 +1,5 @@
 import type {PageServerLoad} from './$types';
-import type {Restaurant} from 'mcdonads-fetcher';
-import {readFile} from "fs/promises";
-import type {RestaurantWithPrice} from "$lib/getRestaurantWithPrice";
-import {getBigMacPrice} from "$lib/getRestaurantWithPrice";
-import restaurants from "../../../../../../generated/restaurants.json";
+import restaurantsWithPrice from "../../../../../../generated/processed/restaurantsWithPrice.json";
 
 async function getCityImageFromWikipedia(city: string) {
     try {
@@ -26,27 +22,16 @@ async function getCityImageFromWikipedia(city: string) {
 }
 
 async function meanBigMacPriceForCity(city: string) {
-    const restaurantsForCity = (restaurants as Restaurant[]).filter(
-        (restaurant) => restaurant.properties.address.city === city
+    const restaurantsForCity = restaurantsWithPrice.filter(
+        (restaurant) => restaurant.address.city === city
     );
+    const meanPrice = restaurantsForCity.reduce((acc, restaurant) => acc + restaurant.price, 0) / restaurantsForCity.length;
 
-    const restaurantsWithPrice: RestaurantWithPrice[] = [];
-    for (const restaurant of restaurantsForCity) {
-        try {
-            const price = await getBigMacPrice(restaurant.properties.store_id);
-            restaurantsWithPrice.push({...restaurant, price});
-
-        } catch (e) {
-            console.log(`Restaurant ${restaurant.properties.name} doesn't have a Big Mac`);
-        }
-    }
-
-    const meanPrice = restaurantsWithPrice.reduce((acc, restaurant) => acc + restaurant.price, 0) / restaurantsWithPrice.length;
-    const formattedPrice = (meanPrice / 100).toFixed(2);
+    const formattedPrice = meanPrice.toFixed(2);
 
     return {
         meanPrice: formattedPrice,
-        amountOfRestaurants: restaurantsWithPrice.length,
+        amountOfRestaurants: restaurantsForCity.length,
     };
 
 
