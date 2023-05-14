@@ -34,9 +34,6 @@ importers:
       svelte-chartjs:
         specifier: ^3.1.2
         version: 3.1.2(chart.js@4.2.0)(svelte@3.55.1)
-      wikipedia:
-        specifier: ^2.0.0
-        version: 2.0.0
     devDependencies:
       '@playwright/test':
         specifier: ^1.28.1
@@ -1051,11 +1048,6 @@ packages:
     engines: {node: '>= 6'}
     dev: true
 
-  /camelcase@4.1.0:
-    resolution: {integrity: sha512-FxAv7HpHrXbh3aPo4o2qxHay2lkLY3x5Mw3KeE4KQE8ysVfziWeRZDwcjauvwBSGEC/nXUPzZy8zeh4HokqOnw==}
-    engines: {node: '>=4'}
-    dev: false
-
   /caniuse-lite@1.0.30001446:
     resolution: {integrity: sha512-fEoga4PrImGcwUUGEol/PoFCSBnSkA9drgdkxXkJLsUBOnJ8rs3zDv6ApqYXGQFOyMPsjh79naWhF4DAxbF8rw==}
     dev: true
@@ -1537,12 +1529,6 @@ packages:
       wrappy: 1.0.2
     dev: true
 
-  /infobox-parser@3.6.2:
-    resolution: {integrity: sha512-lasdwvbtjCtDDO6mArAs/ueFEnBJRyo2UbZPAkd5rEG5NVJ3XFCOvbMwNTT/rJlFv1+ORw8D3UvZV4brpgATCg==}
-    dependencies:
-      camelcase: 4.1.0
-    dev: false
-
   /inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
 
@@ -1782,11 +1768,6 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
     dev: true
-
-  /node-fetch@2.6.1:
-    resolution: {integrity: sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==}
-    engines: {node: 4.x || >=6.0.0}
-    dev: false
 
   /node-fetch@2.6.9:
     resolution: {integrity: sha512-DJm/CJkZkRjKKj4Zi4BsKVZh3ValV5IR5s7LVZnW+6YMh0W1BfNA8XSs6DLMGYlId5F3KnA70uu2qepcR08Qqg==}
@@ -2744,14 +2725,6 @@ packages:
     dependencies:
       string-width: 4.2.3
     dev: true
-
-  /wikipedia@2.0.0:
-    resolution: {integrity: sha512-2Rgs8cM1CNxANRJw2kw+RpZo6r/fuJSVYh91cHpEA7gXdDxmPBdGbmo1VZrrVaKmZrfMLaQo4BQeoVf0wRyoFQ==}
-    engines: {node: '>=10'}
-    dependencies:
-      infobox-parser: 3.6.2
-      node-fetch: 2.6.1
-    dev: false
 
   /wrappy@1.0.2:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
