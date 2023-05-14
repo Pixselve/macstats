@@ -22,11 +22,10 @@
     Chart.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale, PointElement, LineElement);
     Chart.defaults.color = '#000';
     Chart.defaults.backgroundColor = '#27742d';
-
     export let data: PageData;
 
-
 </script>
+
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <Card className="space-y-4">
@@ -65,10 +64,12 @@
 
     </Card>
 
-    <PriceDistributionSection prices={data.big_mac_price_distribution.prices} amounts_of_restaurant={data.big_mac_price_distribution.amounts_of_restaurant}></PriceDistributionSection>
+    <PriceDistributionSection prices={data.big_mac_price_distribution.prices}
+                              amounts_of_restaurant={data.big_mac_price_distribution.amounts_of_restaurant}></PriceDistributionSection>
     <StandardOfLivingSection trendlinePointsData={data.standardOfLiving.trendline} R2={data.standardOfLiving.r2}
                              plotPointsData={data.standardOfLiving.prices}></StandardOfLivingSection>
-    <CompetitorMapSection R2={data.competitors.r2} trendlinePointsData={data.competitors.trendline} plotPointsData={data.competitors.number_of_competitors_to_price}></CompetitorMapSection>
+    <CompetitorMapSection R2={data.competitors.r2} trendlinePointsData={data.competitors.trendline}
+                          plotPointsData={data.competitors.number_of_competitors_to_price}></CompetitorMapSection>
     <PricePerDepartmentSection geojson={data.region}></PricePerDepartmentSection>
 </div>
 

@@ -23,7 +23,7 @@ export const load = (async ({ params }) => {
   // regression for number of competitors to price
   const competitorsRegression = regression.linear(
     number_of_competitors_to_price.map((d) => [d.number_of_competitors, d.big_mac_price]),
-    { precision: 4 }
+    { precision: 1 }
   );
 
   return {
