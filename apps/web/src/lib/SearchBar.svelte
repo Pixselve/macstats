@@ -25,7 +25,7 @@
     function handleFocusOut() {
         setTimeout(() => {
             isFocused = false;
-        }, 100);
+        }, 300);
     }
 
     function resetSearch() {
