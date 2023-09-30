@@ -27,6 +27,10 @@ This web application provides valuable statistics about McDonald's restaurants i
 
 To start using the McDonald's France Statistics Web Application, simply visit our website [macstats.mael.app](https://macstats.mael.app).
 
+## Screenshots 📸
+
+![main page](https://raw.githubusercontent.com/Pixselve/macstats/main/docs/website.png)
+
 ## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
